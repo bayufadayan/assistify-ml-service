@@ -1,6 +1,6 @@
 ﻿# kmeans-klustering-api-for-selection-project
 
-instal requirement
+instal requirement 
 ```
 pip install -r requirements.txt
 ```
